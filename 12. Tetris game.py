@@ -6,7 +6,7 @@ import random
 pygame.init()
 
 # Dimensiuni ecran și blocuri
-screen_width = 300
+screen_width = 800
 screen_height = 600
 block_size = 30
 play_width = block_size * 10  # 10 coloane
